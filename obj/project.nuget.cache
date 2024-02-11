@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HGMaknuVPL7wZM0GaU41Ov/Of1AavUnX8sNkxK94b8jniN05lW7yq1Pmw0CXstaUHEM06BtOTuhxp2c7i4/KsQ==",
+  "success": true,
+  "projectFilePath": "E:\\sit331\\sampleproj\\sampleproj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chelsea Singla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Chelsea Singla\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Chelsea Singla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Chelsea Singla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
